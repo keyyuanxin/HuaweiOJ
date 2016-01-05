@@ -1,0 +1,4 @@
+﻿  8.cpp
+c:\soft\金山快盘\快盘\project\杭电oj\juchang\huaweioj\test1\8\8.cpp(45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\soft\金山快盘\快盘\project\杭电oj\juchang\huaweioj\test1\8\8.cpp(49): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  8.vcxproj -> C:\soft\金山快盘\快盘\project\杭电OJ\juchang\HuaweiOJ\test1\Debug\8.exe
